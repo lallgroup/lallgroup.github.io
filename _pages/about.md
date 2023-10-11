@@ -9,7 +9,7 @@ profile:
   image: packard.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>David Packard Electrical Engineering 215</p>
+    <p>Packard Electrical Engineering #215</p>
     <p>350 Serra Mall</p>
     <p>Stanford, CA. 94305</p>
 
