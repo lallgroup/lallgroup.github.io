@@ -11,19 +11,44 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: lall18_01.jpg
-    content: about_lall.md
+    content: profile_lall.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>David Packard Electrical Engineering</p>
+      <p>lall [at] stanford.edu</p>
+      <p>Packard Electrical Engineering</p>
       <p>350 Serra Mall</p>
       <p>Stanford, CA. 94305</p>
+      <p><a href=https://lall.stanford.edu/>Faculty page</a></p>
+
   - align: left
-    image: lall18_01.jpg
-    content: about_lall.md
-    image_circular: false # crops the image to make it circular
+    image: tmp.jpg
+    content: profile_template.md
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>David Packard Electrical Engineering</p>
-      <p>350 Serra Mall</p>
-      <p>Stanford, CA. 94305</p> 
----
+      <p>You can put your website or something here</p>
  
+  - align: right
+    image: tmp.jpg
+    content: profile_template.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>You can put your website or something here</p>
+
+  - align: left
+    image: emi.jpg
+    content: profile_emi.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>esoroka [at] stanford.edu</p>
+      <p><a href=https://elsoroka.github.io/>Website</a> | <a href="https://www.linkedin.com/in/emi-soroka-175105150/" alt="LinkedIn" class="social-icon si-rounded si-small si-linkedin">
+       <i class="fa-brands fa-linkedin"></i></a>
+        <a href="https://github.com/elsoroka/" alt="GitHub" class="social-icon si-rounded si-small si-github">
+        <i class="fa-brands fa-github"></i></a>
+       </p>
+
+  - align: right
+    image: tmp.jpg
+    content: profile_template.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>You can put your website or something here</p>
