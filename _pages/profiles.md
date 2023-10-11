@@ -52,3 +52,4 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>You can put your website or something here</p>
+---
