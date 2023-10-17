@@ -28,11 +28,11 @@ profiles:
       <p>You can put your website or something here</p>
  
   - align: right
-    image: tmp.jpg
-    content: profile_template.md
+    image: amir.jpg
+    content: profile_amir.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>You can put your website or something here</p>
+      <p>afsharrad [at] stanford.edu</p>
 
   - align: left
     image: emi.jpg

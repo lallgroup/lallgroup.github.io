@@ -1,0 +1,1 @@
+Amirhossein Afsharrad is a PhD student in Electrical Engineering. His research focuses on reinforcement learning and bandits. Amirhossein is interested in optimization, control theory, and their applications in machine learning.
