@@ -19,5 +19,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Lall Group focuses on algorithms for control, optimization, and machine learning. Our students pursue a wide variety of interesting problems. If you're interested in collaborating with us or joining our group, please contact Prof. Lall by email -- we'd love to hear from you.
+Lall Group focuses on algorithms for control, optimization, and machine learning. Our students pursue a wide variety of interesting problems. If you're interested in collaborating with us or joining our group, please contact Prof. Lall or one of his students by email -- we'd love to hear from you.
 
