@@ -47,9 +47,12 @@ profiles:
        </p>
 
   - align: right
-    image: tmp.jpg
-    content: profile_template.md
+    image: andrei.jpg
+    content: profile_andrei.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>You can put your website or something here</p>
+      <p>kanaval [at] stanford.edu</p>
+      <p><a href="https://www.linkedin.com/in/kanavalau/" alt="LinkedIn" class="social-icon si-rounded si-small si-linkedin">
+        <i class="fa-brands fa-linkedin"></i></a>
+       </p>
 ---
