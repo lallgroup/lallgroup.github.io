@@ -1,0 +1,1 @@
+Andrei Kanavalau is a PhD candidate in Electrical Engineering. His research focuses on augmenting control algorithms with machine learning while preserving safety and stability guarantees.
