@@ -51,29 +51,4 @@ profiles:
         <i class="fa-brands fa-linkedin"></i></a>
        </p>
 
-  - align: right
-    image: nick.jpg
-    content: profile_nick.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>lando [at] stanford.edu</p>
-      <p><a href="https://nicklandolfi.com">Website</a> | <a href="https://www.linkedin.com/in/nick-landolfi-a29023293" alt="LinkedIn" class="social-icon si-rounded si-small si-linkedin">
-       <i class="fa-brands fa-linkedin"></i></a>
-        <a href="https://github.com/nlandolfi/" alt="GitHub" class="social-icon si-rounded si-small si-github">
-        <i class="fa-brands fa-github"></i></a>
-       </p>
-
-  - align: left
-    image: rohan.jpg
-    content: profile_rohan.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>rhnsinha [at] stanford.edu</p>
-      <p><a href="https://rohansinha.nl/">Website</a> | <a href="https://www.linkedin.com/in/rohan-sinha-728012147" alt="LinkedIn" class="social-icon si-rounded si-small si-linkedin">
-       <i class="fa-brands fa-linkedin"></i></a>
-        <a href="https://github.com/GoldeneyeRohan" alt="GitHub" class="social-icon si-rounded si-small si-github">
-        <i class="fa-brands fa-github"></i></a>
-        <a href="https://twitter.com/RohanSinhaSU" alt="Twitter" class="social-icon si-rounded si-small si-twitter">
-        <i class="fa-brands fa-twitter"></i></a>
-      </p>
 ---
