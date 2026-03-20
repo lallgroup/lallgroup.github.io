@@ -7,13 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-[EE104: Introduction to Machine Learning](https://ee104.stanford.edu/)
+Spring 2026: [EE363: Linear Dynamical Systems](https://stanford.edu/class/ee363/)
 
-[EE263: Introduction to Linear Dynamical Systems](https://ee263.stanford.edu/)
+Autumn 2025: [EE263: Matrix Methods: Singular Value Decomposition](https://ee263.stanford.edu/)
+
+Last offered Spring 2025: [EE104: Introduction to Machine Learning](https://ee104.stanford.edu/)
+
+Offered in previous years:
 
 [EE266: Stochastic Control](https://lall.stanford.edu/ee266/)
-
-[EE364a: Convex Optimization I](http://ee364a.stanford.edu/)
 
 [EE464: Semidefinite Optimization and Algebraic Techniques](https://lall.stanford.edu/ee464)
 
